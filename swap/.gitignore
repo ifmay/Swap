@@ -1,0 +1,19 @@
+
+# no word files please
+.doc
+.docx
+
+# no mac tmp folders
+.DS_Store
+
+# other stuff
+._*
+.vscode
+node_modules
+.o
+*~
+tmp/
+*.swp
+
+
+
